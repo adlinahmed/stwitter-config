@@ -22,6 +22,9 @@ public class Post {
         this.post = post;
     }
 
+    public Post(int postID, String posterName, String post) {
+    }
+
     public int getPostID() {
         return postID;
     }
