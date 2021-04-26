@@ -1,0 +1,3 @@
+INSERT INTO comment (comment_id, post_id, create_date, commenter_name, comment) values (10001, 20001, 04-23-2021, 'Adlin', 'Wow, so cool');
+INSERT INTO comment (comment_id, post_id, create_date, commenter_name, comment) values (10002, 20002, 04-24-2021, 'Adlin', 'Wow, not cool');
+INSERT INTO comment (comment_id,, post_id, create_date, commenter_name, comment) values (10003, 20001, 04-23-2021, 'Pocahontas', 'Rad,dude');
